@@ -10,6 +10,7 @@ public class TestFiguras {
 
         System.out.println(triangulo2);
         System.out.println("El perimetro del triangulo2 es: "+triangulo2.calcularPerimetro());
+        System.out.println("este es un nuevo cambio");
 
     }
 }
